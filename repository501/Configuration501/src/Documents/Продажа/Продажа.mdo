@@ -30,10 +30,10 @@
       <objectType typeId="078f9612-8db8-4571-aa5c-ab16c359b62c" valueTypeId="a3fc50d4-3055-4543-98c9-ec5a315f65a7"/>
       <rowType typeId="f2075144-5c14-4293-8636-67e61e0eda2e" valueTypeId="d9b28c49-9dd7-4c6f-be1c-5a04af039722"/>
     </producedTypes>
-    <name>Товыры</name>
+    <name>Товары</name>
     <synonym>
       <key>en</key>
-      <value>Товыры</value>
+      <value>Товары</value>
     </synonym>
     <attributes uuid="e83c10e3-1c79-41d6-a5ab-229f55981af3">
       <name>Товар</name>
